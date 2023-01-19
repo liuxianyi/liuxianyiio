@@ -5,13 +5,13 @@ permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: right
   image: jing.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>+86-15222047598</p>
-    <p>330 Room, Building 26, School of Electrical and Information Engineering</p>
-    <p>Tianjin, China</p>
+    <div>School of Electrical and Information Engineering, Tianjin University</div>
+    <div>330 Room, Building 26, Tianjin, China</div>
+    <div>+86-15222047598</div>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
