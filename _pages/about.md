@@ -7,7 +7,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: left
   image: jing.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>+86-15222047598</p>
     <p>330 Room, Building 26, School of Electrical and Information Engineering</p>
