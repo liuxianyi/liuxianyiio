@@ -5,8 +5,8 @@ permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: jing.jpg
+  align: left
+  image: jing.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>+86-15222047598</p>
